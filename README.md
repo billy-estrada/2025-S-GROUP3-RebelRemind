@@ -1,1 +1,41 @@
 Group 3 2025 Project Repo
+
+A simple Hello World Chrome extension using React. 
+
+# Getting Started with Create React App
+
+```sh
+   git clone https://github.com/UNLV-CS472-672/2025-S-GROUP3-RebelRemind.git
+```
+
+
+## Installing dependencies
+
+```sh
+   cd rebel_remind
+```
+```sh
+   cd npm install
+```
+
+## Deploying the Chrome Extension
+
+### To view the SPA in a localhost browser with 'compile on save':
+
+```sh
+   cd npm run dev
+```
+
+### To create a build folder for deploying in Chrome Extension:
+
+```sh
+   cd npm run build
+```
+
+1. Navigate to chrome://extensions/
+2. Select developer mode in the top right
+3. Select **Load Unpacked** in the top left
+4. Navigate to the project and upload the **build** folder
+
+
+
