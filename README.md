@@ -15,7 +15,7 @@ A simple Hello World Chrome extension using React.
    cd rebel_remind
 ```
 ```sh
-   cd npm install
+   npm install
 ```
 
 ## Deploying the Chrome Extension
