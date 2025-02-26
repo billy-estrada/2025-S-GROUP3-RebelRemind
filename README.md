@@ -23,13 +23,14 @@ A simple Hello World Chrome extension using React.
 ### To view the SPA in a localhost browser with 'compile on save':
 
 ```sh
-   cd npm run dev
+   npm run dev
 ```
+1. Navigate to localhost
 
 ### To create a build folder for deploying in Chrome Extension:
 
 ```sh
-   cd npm run build
+   npm run build
 ```
 
 1. Navigate to chrome://extensions/
